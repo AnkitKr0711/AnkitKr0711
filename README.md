@@ -1,12 +1,9 @@
 [![MasterHead](https://www.ismartcom.com/hs-fs/hubfs/ai%20imp.gif?width=600&name=ai%20imp.gif)]
-
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A Data Enthusiastic person from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkr0711&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkr0711" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkr0711" alt="ankitkr0711" /></a> </p>
 
 - 🔭 I’m currently working on [CyberSecurity_Anomaly_Detection](https://github.com/AnkitKr0711/CyberSecurity_Anomaly_Detection)
 
