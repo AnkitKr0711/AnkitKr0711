@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitKr0711?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Data Transformation**
+- 💬 Ask me about **Machine Learning, pandas, numpy, seaborn, SQL, Tableau, scikit, Feature engineering**
 
 - 📫 How to reach me **ankitkr0711@gmail.com**
 
