@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Pycharm, Airflow, Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnkitKr0711](https://github.com/AnkitKr0711)
+- 👨‍💻 All of my projects are available at [https://github.com/AnkitKr0711?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Data Transformation**
 
