@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CyberSecurity_Anomaly_Detection](https://github.com/AnkitKr0711/CyberSecurity_Anomaly_Detection)
 
-- 🌱 I’m currently learning **Pycharm, Airflow, Tensorflow**
+- 🌱 I’m currently learning **Pycharm, Airflow, PySpark, Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnkitKr0711?tab=repositories)
 
